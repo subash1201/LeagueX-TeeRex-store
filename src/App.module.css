@@ -1,0 +1,28 @@
+.search input {
+  padding: 1rem;
+  width: 30%;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: aliceblue;
+}
+
+.search {
+  padding: 2% 0 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #dee2e6;
+}
+
+.biSearch {
+  background-color: aliceblue;
+  border: none;
+  padding: 1rem;
+}
+
+.active{
+  font-size: large;
+  font-weight: 800;
+}

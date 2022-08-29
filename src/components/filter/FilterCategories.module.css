@@ -1,0 +1,18 @@
+.filterContainer{
+    margin:5% 5% 0 5% ;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px; 
+    width:25vw;
+    height:100%;
+    position: sticky;
+    top:0;
+    background-color:#ced4da ;
+}
+.category{
+    padding-left: 20%;
+    font-weight: bold;
+}
+.subCategory{
+    text-align: left;
+    font-size:medium;
+    padding-left: 10%;
+}

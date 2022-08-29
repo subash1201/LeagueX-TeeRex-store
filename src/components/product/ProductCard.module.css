@@ -1,0 +1,48 @@
+.productContainer{
+    width:300px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    border-radius: 5px;
+    margin:20px;
+    background-color: white;
+}
+
+.productContainer input{
+    display: block;
+    margin : 0 auto;
+    width:50px;
+}
+.imageContainer{
+    overflow: hidden;
+    height:200px;
+    padding: 10px;
+}
+
+.title{
+    text-align: center;
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button{
+    background-color: black;
+    color:white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button:hover{
+    color:black;
+    background-color: white;
+}
+
+.color{
+    width:20px;
+    height:15px;
+    border-radius: 10px;
+}
+
